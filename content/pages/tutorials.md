@@ -4,9 +4,113 @@ title: Tutorials
 uid: e8eacfe3-c521-977f-9f90-6985ec41157f
 ---
 
-| DAY # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | MATLAB® Lecture 1 | ([PDF]({{< baseurl >}}/resources/day1lecture)) |
-| 2 | MATLAB® Lecture 2 | &nbsp; |
-| 3 | MATLAB® Tutorial | ([PDF]({{< baseurl >}}/resources/day3lecture)) |
-| 4-9 | Designing and Building Your Sterling Engines  {{< br >}}  {{< br >}}Metal Cutting Physics  {{< br >}}  {{< br >}}Measurement  {{< br >}}  {{< br >}}Part Layout  {{< br >}}  {{< br >}}Band Saw  {{< br >}}  {{< br >}}Belt Sander  {{< br >}}  {{< br >}}Drill Press (and Tapping Holes)  {{< br >}}  {{< br >}}Lathe  {{< br >}}  {{< br >}}Milling Machine  {{< br >}}  {{< br >}}Grinding and Buffing  {{< br >}}  {{< br >}}Working with Sheet Metal |  {{< br >}}{{< br >}}   {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/physics))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/measure))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/layout))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/bandsaw-1))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/beltsand))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/drill))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/lathe))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/mill))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/grind))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/sheet)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+MATLAB® Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/day1lecture))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+MATLAB® Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+MATLAB® Tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/day3lecture))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-9
+{{< tdclose >}}
+{{< tdopen >}}
+Designing and Building Your Sterling Engines  
+  
+Metal Cutting Physics  
+  
+Measurement  
+  
+Part Layout  
+  
+Band Saw  
+  
+Belt Sander  
+  
+Drill Press (and Tapping Holes)  
+  
+Lathe  
+  
+Milling Machine  
+  
+Grinding and Buffing  
+  
+Working with Sheet Metal
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+  
+  
+([PDF]({{< baseurl >}}/resources/physics))  
+  
+([PDF]({{< baseurl >}}/resources/measure))  
+  
+([PDF]({{< baseurl >}}/resources/layout))  
+  
+([PDF]({{< baseurl >}}/resources/bandsaw-1))  
+  
+([PDF]({{< baseurl >}}/resources/beltsand))  
+  
+([PDF]({{< baseurl >}}/resources/drill))  
+  
+([PDF]({{< baseurl >}}/resources/lathe))  
+  
+([PDF]({{< baseurl >}}/resources/mill))  
+  
+([PDF]({{< baseurl >}}/resources/grind))  
+  
+([PDF]({{< baseurl >}}/resources/sheet))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

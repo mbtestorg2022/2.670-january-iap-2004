@@ -16,12 +16,57 @@ Day 10 (In Lab)
 
 The spin-off is **almost** as fun as the class itself. Students race to find the fastest engines and vote to select the most aesthetically pleasing modifications. We hope you'll be able to join us this year!
 
-| TIME | EVENT |
-| --- | --- |
-| 3:30-4:00 pm | Craftsmanship Contest |
-| 4:00-4:30 pm | Stock Engine Race |
-| 4:30-4:45 pm | Modified Engine Race |
-| 4:45 pm | **Pizza - All are welcome!** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TIME
+{{< thclose >}}
+{{< thopen >}}
+EVENT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3:30-4:00 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Craftsmanship Contest
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4:00-4:30 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Stock Engine Race
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4:30-4:45 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Modified Engine Race
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4:45 pm
+{{< tdclose >}}
+{{< tdopen >}}
+**Pizza - All are welcome!**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
