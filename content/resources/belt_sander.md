@@ -7,6 +7,7 @@ image_metadata:
   caption: Belt Sander.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Belt Sander.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: belt_sander.jpg
 uid: 484ef0ac-689e-5547-0f06-6d0a472d358e

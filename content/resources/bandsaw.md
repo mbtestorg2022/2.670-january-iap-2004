@@ -7,6 +7,7 @@ image_metadata:
   caption: Band saw.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Band saw.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: bandsaw.jpg
 uid: dbcf6c0e-74bd-5929-8234-aaa191594651

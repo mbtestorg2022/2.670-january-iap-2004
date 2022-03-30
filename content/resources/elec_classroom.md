@@ -8,6 +8,7 @@ image_metadata:
   caption: Computer-based modeling is taught in electronic classrooms.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Computer-based modeling is taught in electronic classrooms.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: elec_classroom.jpg
 uid: 1f52c1ec-acbd-9666-168d-3daf3e35ff81

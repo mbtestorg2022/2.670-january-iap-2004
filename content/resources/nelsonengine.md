@@ -7,6 +7,7 @@ image_metadata:
   caption: Alexandra Nelson's engine.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Alexandra Nelson's engine.
+parent_uid: 2394c415-ee0e-9541-ca01-e925eadf8028
 resourcetype: Image
 title: NelsonEngine.jpg
 uid: 1ae7d790-f215-6d5d-865a-7a768c71d5db

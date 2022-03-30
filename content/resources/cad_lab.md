@@ -7,6 +7,7 @@ image_metadata:
   caption: A dedicated CAD lab adjoins the LMP lab.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: A dedicated CAD lab adjoins the LMP lab.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: CAD_lab.jpg
 uid: 97c766b1-a835-87b0-f585-c0b27c169597

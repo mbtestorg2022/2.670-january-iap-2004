@@ -7,6 +7,7 @@ image_metadata:
   caption: Conventional lathe.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Conventional lathe.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: lathe_LMP.jpg
 uid: 3f98f6c4-a625-5971-14ac-20af6c06903b

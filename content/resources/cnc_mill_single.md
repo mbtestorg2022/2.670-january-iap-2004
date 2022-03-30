@@ -7,6 +7,7 @@ image_metadata:
   caption: CNC mill equipped with a single-tool holder.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: CNC mill equipped with a single-tool holder.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: CNC_mill_single.jpg
 uid: 056606ac-0270-e739-eea0-f8d1d3dba145

@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Students work with different vintages of tools, from computer controlled
     to chrome plated.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: lathe_chrome_right.jpg
 uid: d694f90a-ad17-b16e-b062-40ac89cd873c

@@ -7,6 +7,7 @@ image_metadata:
   caption: Chandler Hatton's engine.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Chandler Hatton's engine.
+parent_uid: 2394c415-ee0e-9541-ca01-e925eadf8028
 resourcetype: Image
 title: HattonEngine.jpg
 uid: cca56002-f29f-0961-0b87-531e9ffcafc0

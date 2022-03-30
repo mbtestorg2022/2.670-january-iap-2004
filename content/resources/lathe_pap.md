@@ -7,6 +7,7 @@ image_metadata:
   caption: Conventional lathe.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Conventional lathe.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: lathe_Pap.jpg
 uid: ebbe36d3-c78e-89e0-e5d0-1e4de08e928b

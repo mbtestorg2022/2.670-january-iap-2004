@@ -8,6 +8,7 @@ image_metadata:
   caption: The Lab for Manufacturing and Productivity (LMP).
   credit: Images courtesy of MIT OpenCourseWare.
   image-alt: The Lab for Manufacturing and Productivity (LMP).
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: LMP_lab.jpg
 uid: a1e6f428-8091-f58c-6001-01951587726e

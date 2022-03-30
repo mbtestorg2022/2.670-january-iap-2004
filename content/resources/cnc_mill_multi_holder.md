@@ -7,6 +7,7 @@ image_metadata:
   caption: Multi-tool holder within a CNC mill.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Multi-tool holder within a CNC mill.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: CNC_mill_multi_holder.jpg
 uid: 3b8825b4-3282-2dce-0494-6de2661f3d6f

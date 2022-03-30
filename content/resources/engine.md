@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 45bacecd-9e58-39c0-d5fc-05bf01ec8954
 resourcetype: Image
 title: engine.gif
 uid: 733e5ff7-47ed-9b37-f84d-44827c5652b5

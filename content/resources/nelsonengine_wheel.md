@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Alexandra Nelson was among the many students adding fine details and
     creative customizations to their engines.
+parent_uid: 2394c415-ee0e-9541-ca01-e925eadf8028
 resourcetype: Image
 title: NelsonEngine_wheel.jpg
 uid: 680b2650-41e2-b94a-e844-b2d9ce296101

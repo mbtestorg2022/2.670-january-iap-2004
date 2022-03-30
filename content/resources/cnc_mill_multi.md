@@ -7,6 +7,7 @@ image_metadata:
   caption: CNC mill equipped with a multi-tool holder.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: CNC mill equipped with a multi-tool holder.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: CNC_mill_multi.jpg
 uid: 51a940ea-e8e9-8b21-dd48-02eae6c350a3

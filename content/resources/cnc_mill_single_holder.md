@@ -7,6 +7,7 @@ image_metadata:
   caption: Single-tool holder within a CNC mill.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Single-tool holder within a CNC mill.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: CNC_mill_single_holder.jpg
 uid: 25a771c0-4f07-26b6-ffe5-47204f10307c

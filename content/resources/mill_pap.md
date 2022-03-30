@@ -7,6 +7,7 @@ image_metadata:
   caption: Conventional milling machine.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Conventional milling machine.
+parent_uid: fb05650f-0566-01f3-dc7a-b8e25aca4dda
 resourcetype: Image
 title: mill_Pap.jpg
 uid: d2727bb0-c23b-2c17-0604-f44069d964f1
